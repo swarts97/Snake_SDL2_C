@@ -1,0 +1,24 @@
+﻿  create.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  def.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  draw.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  menu.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  move.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  scoreboard.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  snakeresize.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Source.c
+  startclose.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ttfscore.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  visualcollision.c
+d:\saves\progházik\1 - snakec\nhf_snake\nhf_snake\def.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
